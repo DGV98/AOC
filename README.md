@@ -1,5 +1,7 @@
 # Advent of Code
 
+Consolidating all my repositories into this one.
+
 ## 2025
 Currently going through this one
 
